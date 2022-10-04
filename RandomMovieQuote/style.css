@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-center{
+    text-align: center;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    color: black;
+}
+body {  
+    background-color: #fff;
+}
+#ruta {
+    background-color: white;
+    margin: 5rem 3rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 4px 4px 6px #00000025;
+}
+.btn {
+    cursor: pointer;
+    padding: 0.6em 1.8em;
+    border-radius: 0.5em;
+    border-style: none;
+    background-color: darkslategray;
+    color: #fff;
+}
